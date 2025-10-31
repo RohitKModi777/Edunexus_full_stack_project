@@ -1,5 +1,5 @@
   
-  <h1>EduNexus</h1>
+  <h1>EduNexus(Interactive LMS with Live Session)</h1>
   
   <p>
     A modern full‑stack Learning Management System (LMS) connecting instructors and students. Create courses, share knowledge, run live lectures, chat, manage assignments, and grow together.
