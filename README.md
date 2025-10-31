@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1855" height="758" alt="image" src="https://github.com/user-attachments/assets/833c21d9-f1c5-463e-ae98-bc95bbc325e4" /><div align="center">
   <img src="docs/screenshots/hero.png" alt="EduNexus Hero" width="100%"/>
   
   <h1>EduNexus</h1>
@@ -191,17 +191,28 @@ EduNexus/
 Place the screenshots from this README request into `docs/screenshots/` with the following names:
 
 - `hero.png` — Landing page hero
+  <img width="1850" height="881" alt="image" src="https://github.com/user-attachments/assets/01cf7fe2-e14e-4dfa-ad2a-16f03d0a4ac7" />
+
 - `features.png` — Features section
+  <img width="1812" height="906" alt="image" src="https://github.com/user-attachments/assets/4ebeec35-3575-400b-bfa2-aa973357aa08" />
+
+- `register.png` — Register page
+  <img width="1734" height="813" alt="image" src="https://github.com/user-attachments/assets/060fcc3b-56af-47e8-8bcf-2feaef0159d1" />
+
 - `login.png` — Login page
+  <img width="1803" height="816" alt="image" src="https://github.com/user-attachments/assets/331598d6-aa6a-48d7-ad0c-328d0c39f8b6" />
+
 - `courses.png` — Courses listing
+  <img width="1855" height="758" alt="image" src="https://github.com/user-attachments/assets/333eac5a-0c19-4cab-84b6-59208f666d5d" />
+  `instructor.png` — Instructor Dashboard
+  <img width="1899" height="592" alt="image" src="https://github.com/user-attachments/assets/b8b0ef0b-63ab-4f34-87cf-33e9fa477e8f" />
+  -for student
+  <img width="1855" height="834" alt="image" src="https://github.com/user-attachments/assets/21cb815f-1cb1-41ff-bc2d-7e22eda285f7" />
+  -Enrollment course
+  <img width="1887" height="471" alt="image" src="https://github.com/user-attachments/assets/e03d878b-1b86-4c50-8d0b-3bad38a3ffe5" />
+  and other things you can see by going this link
+  https://edunexus-full-stack-project.vercel.app
 
-Then the images below will render on GitHub:
-
-<img src="docs/screenshots/features.png" alt="Features" width="100%"/>
-
-<img src="docs/screenshots/login.png" alt="Login" width="100%"/>
-
-<img src="docs/screenshots/courses.png" alt="Courses" width="100%"/>
 
 ---
 
