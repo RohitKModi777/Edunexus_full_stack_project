@@ -30,7 +30,7 @@ const app = express();
 
 // Core middleware
 const defaultAllowed = [
-  'https://edunexus-full-stack-project.vercel.app/',
+  'https://edunexus-full-stack-project.vercel.app',
   'http://localhost:5173'
 ];
 const envAllowed = (process.env.CORS_ORIGIN || '').split(',').map(s => s.trim()).filter(Boolean);
