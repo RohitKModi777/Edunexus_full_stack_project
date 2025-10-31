@@ -1,5 +1,3 @@
-<img width="1855" height="758" alt="image" src="https://github.com/user-attachments/assets/833c21d9-f1c5-463e-ae98-bc95bbc325e4" /><div align="center">
-  <img src="docs/screenshots/hero.png" alt="EduNexus Hero" width="100%"/>
   
   <h1>EduNexus</h1>
   
@@ -15,7 +13,6 @@
     <a href="#-scripts">Scripts</a> ·
     <a href="#-screenshots">Screenshots</a>
   </p>
-</div>
 
 ---
 
